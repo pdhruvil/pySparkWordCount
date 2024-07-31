@@ -1,0 +1,5 @@
+Main Python file location: gs://data_engg_2024_july_30/scripts/word_count_using_pyspark.py
+
+Input file Argument location: gs://data_engg_2024_july_30/inputdata/input_file.txt
+
+Output File Argument location: gs://data_engg_2024_july_30/output
